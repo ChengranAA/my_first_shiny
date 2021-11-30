@@ -1,0 +1,14 @@
+COLUMN NAME,	TYPE,	DESCRIPTION
+people_positive_cases_count,	integer,	Number of people who have tested positive for all times
+county_name,	string,	The county name (US only)
+province_state_name	,string	,The state or province name
+report_date,	date,	The date of the report
+continent_name,	string,	The continent name
+data_source_name	,string	,Short description of the data source from which the record is sourced
+people_death_new_count,	integer	,Number of people who have died for each day
+county_fips_number,	integer	,"County-level FIPS code, uniquely identifying geographic areas (US only)"
+country_alpha_3_code,	string,	ISO3166-1 value. The three-letter code that represents a country name
+country_short_name,	string,	The country name
+country_alpha_2_code,	string,	ISO3166-1 value. The two-letter code that represents a country name
+people_positive_new_cases_count	,integer,	Number of people who have tested positive for each day
+people_death_count,	integer	,Number of people who have died for all times

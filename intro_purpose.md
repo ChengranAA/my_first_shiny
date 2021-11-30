@@ -1,0 +1,30 @@
+# <u>**Purpose of this analysis**</u>
+
+Coronaviruses are enveloped, positive single‐stranded large RNA viruses that infect humans, but also a wide range of animals (Velavan et.al, 2020). The following is an visulization of the coronavirus (see Figure 1). The impact of the virus is global. This analysis is aimed to investigated, how the world is influenced by the virus and whether the pandemic situation is getting better compared with last year (2020). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

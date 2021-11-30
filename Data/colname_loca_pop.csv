@@ -1,0 +1,12 @@
+COLUMN NAME,TYPE,DESCRIPTION
+country_short_name,string,The country name
+country_alpha_3_code,string,ISO3166-1 value. The three-letter code that represents a country name
+country_alpha_2_code,string,ISO3166-1 value. The two-letter code that represents a country name
+province_state_name,string,The state or province name
+county_name,string,The county name (US only)
+county_fips_number,integer,Count-level FIPS code, uniquely identifying geographic areas (US only)
+geo_latitude,decimal,Latitude for the geographic entity
+geo_longitude,decimal,Longitude for the geographic entity
+geo_location,geopoint,
+geo_region_population_count,integer,Population for the geographic entity
+data_source_name,string

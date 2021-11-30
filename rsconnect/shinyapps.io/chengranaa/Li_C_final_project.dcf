@@ -1,0 +1,13 @@
+name: Li_C_final_project
+title: Li_C_final_project
+username:
+account: chengranaa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3907942
+bundleId: 4480753
+url: https://chengranaa.shinyapps.io/Li_C_final_project/
+when: 1618589852.99401
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/.DS_Store
